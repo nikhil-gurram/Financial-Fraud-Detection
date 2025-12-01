@@ -1,0 +1,8 @@
+venv
+.vscode/
+__pycache__/
+data/
+*.pyc
+.models/
+ppt.html
+ppt1.html
